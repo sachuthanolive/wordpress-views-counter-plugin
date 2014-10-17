@@ -1,0 +1,24 @@
+.vc-container
+{
+	width:100%;
+	display: block;
+	padding:5px 10px;
+}
+.vc-container .vc-views-head
+{
+	font-weight: bold;
+}
+.vc-container .vc-views-value
+{
+	display: inline-block;
+	min-width: 10px;
+	padding: 3px 7px;
+	font-weight: 700;
+	color: #fff;
+	line-height: 1;
+	vertical-align: baseline;
+	white-space: nowrap;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #428bca;
+}
