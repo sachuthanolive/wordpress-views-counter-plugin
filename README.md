@@ -1,4 +1,4 @@
-wordpress-views-counter-plugin
+Wordpress Views Counter Plugin
 ==============================
 
 ##Description:
